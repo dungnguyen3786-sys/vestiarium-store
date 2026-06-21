@@ -3,6 +3,7 @@ import './globals.css';
 import { CartProvider } from '@/context/CartContext';
 import Header from '@/components/Header';
 import CartDrawer from '@/components/CartDrawer';
+import Footer from '@/components/Footer';
 
 export const metadata: Metadata = {
   title: 'Vestiarium — Liturgical Vestments & Chasubles',
@@ -21,6 +22,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <CartProvider>
           <Header />
           {children}
+          <Footer />
           <CartDrawer />
         </CartProvider>
       </body>
