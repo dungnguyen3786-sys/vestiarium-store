@@ -15,6 +15,7 @@ export default function Footer() {
           <Link href="/privacy">Privacy Policy</Link>
         </nav>
         <p className="fine">© {new Date().getFullYear()} Vestiarium Atelier. Every vestment made to order.</p>
+        <p className="fine">ABN 64 548 593 241</p>
       </div>
     </footer>
   );

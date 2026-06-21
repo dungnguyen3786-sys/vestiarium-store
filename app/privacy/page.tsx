@@ -24,8 +24,9 @@ export default function PrivacyPage() {
 
           <h2>1. Who Is Responsible for Your Data</h2>
           <p>
-            Vestiarium Atelier is the data controller for information collected through
-            this website. If you have any questions or requests regarding your personal
+            Vestiarium Atelier (ABN 64 548 593 241), a sole trader registered in
+            Australia, is the data controller for information collected through this
+            website. If you have any questions or requests regarding your personal
             data, please contact us at{' '}
             <a href="mailto:dungnguyen3786@gmail.com">dungnguyen3786@gmail.com</a>.
           </p>

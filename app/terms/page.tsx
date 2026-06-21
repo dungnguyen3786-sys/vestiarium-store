@@ -24,10 +24,10 @@ export default function TermsPage() {
 
           <h2>1. Who We Are</h2>
           <p>
-            This website is operated by Vestiarium Atelier, an Australian atelier
-            specialising in handmade liturgical vestments. References to &ldquo;we,&rdquo;
-            &ldquo;us,&rdquo; and &ldquo;our&rdquo; throughout these terms refer to
-            Vestiarium Atelier.
+            This website is operated by Vestiarium Atelier (ABN 64 548 593 241), a sole
+            trader atelier based in Australia specialising in handmade liturgical vestments.
+            References to &ldquo;we,&rdquo; &ldquo;us,&rdquo; and &ldquo;our&rdquo;
+            throughout these terms refer to Vestiarium Atelier.
           </p>
 
           <h2>2. Orders and Acceptance</h2>
